@@ -1,0 +1,12 @@
+.hidden-list {
+  r
+}
+
+#list-name {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#list-name:hover {
+  text-decoration: underline;
+}
